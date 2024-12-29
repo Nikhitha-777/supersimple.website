@@ -320,7 +320,9 @@ text-align: center;
   color: red;
 }
 @media (max-width:600px) {
-.nav h2{
+*{ background-color:white}
+  
+  .nav h2{
   padding: 0;
   margin: 0;
 }
