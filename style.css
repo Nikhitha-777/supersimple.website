@@ -517,7 +517,7 @@ line-height: 1vh;
   margin-top: 7vh;
 }
 .section-5{
-  margin-top:20vh;
+  margin-top:17vh;
   height: 70%;
   width: 100%;
   background-color: black;
@@ -541,6 +541,7 @@ line-height: 1vh;
 .content-5-right{
   margin: 0vw;
   width: 50%;
+  padding-top:10vh;
 }
 .content-5-right h1{
   font-size: 10vw;
